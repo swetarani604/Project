@@ -3,8 +3,6 @@ package com.cg.paytmwallet.test;
 
 import static org.junit.Assert.*;
 
-import java.time.LocalDate;
-
 import org.junit.Test;
 
 import com.cg.paytmwallet.bean.AccountApp1;
